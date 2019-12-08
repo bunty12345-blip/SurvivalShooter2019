@@ -1,0 +1,21 @@
+Converting script [1 / 2]	[\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	Fragments : 5
+		[ 0] : Line:   35	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   36	InputMethod   GetAxisRaw          	("Vertical")
+		[ 2] : Line:   66	InputProperty mousePosition       
+		[ 3] : Line:   88	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 4] : Line:   88	InputMethod   GetAxisRaw          	("Mouse Y")
+
+Converting script [2 / 2]	[\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+	Fragments : 3
+		[ 0] : Line:   46	InputMethod   GetButton           	("Fire1")
+		[ 1] : Line:   53	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 2] : Line:   53	InputMethod   GetAxisRaw          	("Mouse Y")
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-52\Assets-After/\_Complete-Game\Scripts\Player\PlayerMovement.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	[1 / 2] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-52\Assets-After/\_Complete-Game\Scripts\Player\PlayerShooting.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+
+Overwriting COMPLETED!

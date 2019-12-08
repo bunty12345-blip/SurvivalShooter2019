@@ -1,0 +1,56 @@
+Converting script [1 / 7]	[\_Complete-Game\MobileInput\Scripts\Joystick.cs]
+	Fragments : 2
+		[ 0] : Line:   53	InputMethod   VirtualAxis         	(horizontalAxisName)
+		[ 1] : Line:   55	InputMethod   VirtualAxis         	(verticalAxisName)
+
+Converting script [2 / 7]	[\_Complete-Game\MobileInput\Scripts\VirtualInput.cs]
+	Fragments : 4
+		[ 0] : Line:    9	InputProperty VirtualAxis         
+		[ 1] : Line:   10	InputProperty VirtualAxis         
+		[ 2] : Line:   14	InputProperty VirtualButton       
+		[ 3] : Line:   15	InputProperty VirtualButton       
+
+Converting script [3 / 7]	[\_Complete-Game\MobileInput\Scripts\PlatformSpecific\MobileInput.cs]
+	Fragments : 2
+		[ 0] : Line:   10	InputMethod   RegisterVirtualButton	(new CrossPlatformInputManager.VirtualButton(name)
+		[ 1] : Line:   17	InputMethod   RegisterVirtualAxis 	(new CrossPlatformInputManager.VirtualAxis(name)
+
+Converting script [4 / 7]	[\_Complete-Game\MobileInput\Scripts\PlatformSpecific\StandaloneInput.cs]
+	Fragments : 6
+		[ 0] : Line:   10	InputMethod   GetAxisRaw          	(name)
+		[ 1] : Line:   10	InputMethod   GetAxis             	(name)
+		[ 2] : Line:   16	InputMethod   GetButton           	(name)
+		[ 3] : Line:   22	InputMethod   GetButtonDown       	(name)
+		[ 4] : Line:   28	InputMethod   GetButtonUp         	(name)
+		[ 5] : Line:   76	InputProperty mousePosition       
+
+Converting script [5 / 7]	[\_Complete-Game\Scripts\Managers\PauseManager.cs]
+	Fragments : 1
+		[ 0] : Line:   23	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [6 / 7]	[\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	Fragments : 5
+		[ 0] : Line:   36	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   37	InputMethod   GetAxisRaw          	("Vertical")
+		[ 2] : Line:   67	InputProperty mousePosition       
+		[ 3] : Line:   89	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 4] : Line:   89	InputMethod   GetAxisRaw          	("Mouse Y")
+
+Converting script [7 / 7]	[\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+	Fragments : 3
+		[ 0] : Line:   46	InputMethod   GetButton           	("Fire1")
+		[ 1] : Line:   53	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 2] : Line:   53	InputMethod   GetAxisRaw          	("Mouse Y")
+
+
+7 scripts modified!
+Overwriting actual scripts...
+	[0 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\MobileInput\Scripts\Joystick.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\MobileInput\Scripts\Joystick.cs]
+	[1 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\MobileInput\Scripts\VirtualInput.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\MobileInput\Scripts\VirtualInput.cs]
+	[2 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\MobileInput\Scripts\PlatformSpecific\MobileInput.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\MobileInput\Scripts\PlatformSpecific\MobileInput.cs]
+	[3 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\MobileInput\Scripts\PlatformSpecific\StandaloneInput.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\MobileInput\Scripts\PlatformSpecific\StandaloneInput.cs]
+	[4 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\Scripts\Managers\PauseManager.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Managers\PauseManager.cs]
+	[5 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\Scripts\Player\PlayerMovement.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	[6 / 7] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-10-49\Assets-After/\_Complete-Game\Scripts\Player\PlayerShooting.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+
+Overwriting COMPLETED!

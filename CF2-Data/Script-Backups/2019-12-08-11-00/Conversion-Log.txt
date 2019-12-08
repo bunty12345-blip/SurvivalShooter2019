@@ -1,0 +1,38 @@
+Converting script [1 / 5]	[\Scripts\Player\PlayerMovement.cs]
+	Fragments : 3
+		[ 0] : Line:   27	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   28	InputMethod   GetAxisRaw          	("Vertical")
+		[ 2] : Line:   55	InputProperty mousePosition       
+
+Converting script [2 / 5]	[\Scripts\Player\PlayerShooting.cs]
+	Fragments : 1
+		[ 0] : Line:   35	InputMethod   GetButton           	("Fire1")
+
+Converting script [3 / 5]	[\_Complete-Game\Scripts\Managers\PauseManager.cs]
+	Fragments : 1
+		[ 0] : Line:   23	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [4 / 5]	[\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	Fragments : 5
+		[ 0] : Line:   36	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   37	InputMethod   GetAxisRaw          	("Vertical")
+		[ 2] : Line:   67	InputProperty mousePosition       
+		[ 3] : Line:   89	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 4] : Line:   89	InputMethod   GetAxisRaw          	("Mouse Y")
+
+Converting script [5 / 5]	[\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+	Fragments : 3
+		[ 0] : Line:   46	InputMethod   GetButton           	("Fire1")
+		[ 1] : Line:   53	InputMethod   GetAxisRaw          	("Mouse X")
+		[ 2] : Line:   53	InputMethod   GetAxisRaw          	("Mouse Y")
+
+
+5 scripts modified!
+Overwriting actual scripts...
+	[0 / 5] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-00\Assets-After/\Scripts\Player\PlayerMovement.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\Scripts\Player\PlayerMovement.cs]
+	[1 / 5] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-00\Assets-After/\Scripts\Player\PlayerShooting.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\Scripts\Player\PlayerShooting.cs]
+	[2 / 5] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-00\Assets-After/\_Complete-Game\Scripts\Managers\PauseManager.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Managers\PauseManager.cs]
+	[3 / 5] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-00\Assets-After/\_Complete-Game\Scripts\Player\PlayerMovement.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerMovement.cs]
+	[4 / 5] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-11-00\Assets-After/\_Complete-Game\Scripts\Player\PlayerShooting.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Player\PlayerShooting.cs]
+
+Overwriting COMPLETED!

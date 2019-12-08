@@ -1,0 +1,10 @@
+Converting script [1 / 1]	[\_Complete-Game\Scripts\Managers\PauseManager.cs]
+	Fragments : 1
+		[ 0] : Line:   23	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/KIIT/Repos/Survival Shooter/CF2-Data/Script-Backups/2019-12-08-12-00\Assets-After/\_Complete-Game\Scripts\Managers\PauseManager.cs] to [C:/Users/KIIT/Repos/Survival Shooter/Assets/\_Complete-Game\Scripts\Managers\PauseManager.cs]
+
+Overwriting COMPLETED!
